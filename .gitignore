@@ -1,0 +1,95 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# MacOS files
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio 2019/2022 cache/options directory
+.vs/
+
+# Visual Studio Code files
+.vscode/
+
+# Resharper files
+*.DotSettings.user
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+nCrunchTemp_
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# Coverlet
+coverage.opencover.xml
+coverage.cobertura.xml
+
+# NUnit
+TestResult.xml
+TestResult-*.
+
+# Build directories
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Rider
+.idea/
+*.sln.iml
+
+# Backup & report files
+*.bak
+*.log
+*.swp
+*.swo
+*.tmp
+*.bak
+*.old
+*.sublime-workspace
+
+# Others
+*.class
+*.dbmdl
+*.pdb
+*.cache
+*.ilk
+*.obj
+*.dat
+*.pyc
+*.pyproj
+*.tmp
+*.tmp_proj
+*.tmp_proj.user
